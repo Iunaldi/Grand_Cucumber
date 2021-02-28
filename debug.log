@@ -1,0 +1,1 @@
+[0221/005452.713:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\ilker\AppData\Local\Temp\scoped_dir10220_940768862\Crashpad\reports\9b08566a-d432-4491-b18c-c19bce03de0a.dmp: The process cannot access the file because it is being used by another process. (0x20)
